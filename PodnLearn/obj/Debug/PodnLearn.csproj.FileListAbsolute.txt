@@ -1,0 +1,761 @@
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\PodnLearn.dll.config
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\PodnLearn.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\PodnLearn.pdb
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csc.exe
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csc.exe.config
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csc.rsp
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csi.exe
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csi.exe.config
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csi.rsp
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.AppContext.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Console.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.Compression.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Claims.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.ValueTuple.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\vbc.exe
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\vbc.exe.config
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\vbc.rsp
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\VBCSCompiler.exe
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csprojAssemblyReference.cache
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csproj.CoreCompileInputs.cache
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csproj.CopyComplete
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.pdb
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\PodnLearn.dll.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\PodnLearn.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\PodnLearn.pdb
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\csc.exe
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\csc.exe.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\csc.rsp
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\csi.exe
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\csi.exe.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\csi.rsp
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.AppContext.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Console.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\vbc.exe
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\vbc.exe.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\vbc.rsp
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csprojAssemblyReference.cache
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csproj.CopyComplete
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\obj\Debug\PodnLearn.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\obj\Debug\PodnLearn.pdb
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Win32.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\netstandard.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.AppContext.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.Concurrent.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.NonGeneric.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.Specialized.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Console.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Data.Common.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Contracts.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Debug.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Process.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.StackTrace.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Tools.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.TraceSource.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Tracing.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Drawing.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Dynamic.Runtime.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Globalization.Calendars.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Globalization.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Globalization.Extensions.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.Compression.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.Compression.ZipFile.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.IsolatedStorage.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.Pipes.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.Expressions.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.Parallel.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.Queryable.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Http.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.NameResolution.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.NetworkInformation.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Ping.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Requests.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Security.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Sockets.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.WebHeaderCollection.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.WebSockets.Client.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.WebSockets.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.ObjectModel.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Reflection.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Reflection.Extensions.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Reflection.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Resources.Reader.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Resources.ResourceManager.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Resources.Writer.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Extensions.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Handles.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.InteropServices.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Numerics.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Json.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Claims.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Csp.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Principal.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.SecureString.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.Extensions.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.RegularExpressions.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Overlapped.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Thread.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.ThreadPool.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Timer.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.ValueTuple.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.ReaderWriter.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XDocument.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XmlDocument.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XmlSerializer.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XPath.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XPath.XDocument.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Newtonsoft.Json.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.CodeDom.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Management.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Newtonsoft.Json.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.CodeDom.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Management.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Dynamic.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Dynamic.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.Metadata.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Mono.Unix.dll.config
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-arm\libMono.Unix.so
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-arm64\libMono.Unix.so
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-x64\libMono.Unix.so
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-x86\libMono.Unix.so
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\linux-x64\libMono.Unix.so
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\linux-arm64\libMono.Unix.so
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\linux-arm\libMono.Unix.so
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\osx-arm64\libMono.Unix.dylib
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\osx-x64\libMono.Unix.dylib
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Win32.Registry.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Mono.Unix.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Buffers.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Memory.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Numerics.Vectors.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.AccessControl.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Principal.Windows.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.CodePages.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Mono.Unix.pdb
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Buffers.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Memory.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Numerics.Vectors.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.CodePages.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\BouncyCastle.Crypto.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itextsharp.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itextsharp.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-arm\libMono.Unix.so
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-arm64\libMono.Unix.so
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-x64\libMono.Unix.so
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-x86\libMono.Unix.so
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\linux-x64\libMono.Unix.so
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\linux-arm64\libMono.Unix.so
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\linux-arm\libMono.Unix.so
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\osx-arm64\libMono.Unix.dylib
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\osx-x64\libMono.Unix.dylib
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Mono.Unix.dll.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\PodnLearn.dll.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\PodnLearn.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\PodnLearn.pdb
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csc.exe
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csc.exe.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csc.rsp
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csi.exe
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csi.exe.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csi.rsp
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.AppContext.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Console.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\vbc.exe
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\vbc.exe.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\vbc.rsp
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Win32.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\netstandard.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.AppContext.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.Concurrent.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.NonGeneric.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.Specialized.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Console.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Data.Common.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Contracts.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Debug.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Process.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.StackTrace.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Tools.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.TraceSource.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Tracing.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Drawing.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Dynamic.Runtime.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Globalization.Calendars.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Globalization.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Globalization.Extensions.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.Compression.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.Compression.ZipFile.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.IsolatedStorage.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.Pipes.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.Expressions.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.Parallel.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.Queryable.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Http.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.NameResolution.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.NetworkInformation.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Ping.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Requests.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Security.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Sockets.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.WebHeaderCollection.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.WebSockets.Client.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.WebSockets.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.ObjectModel.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Reflection.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Reflection.Extensions.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Reflection.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Resources.Reader.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Resources.ResourceManager.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Resources.Writer.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Extensions.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Handles.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.InteropServices.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Numerics.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Json.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Claims.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Csp.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Principal.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.SecureString.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.Extensions.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.RegularExpressions.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Overlapped.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Thread.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.ThreadPool.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Timer.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.ValueTuple.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.ReaderWriter.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XDocument.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XmlDocument.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XmlSerializer.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XPath.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XPath.XDocument.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itextsharp.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Dynamic.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Win32.Registry.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Mono.Unix.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Buffers.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.CodeDom.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Management.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Memory.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Numerics.Vectors.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.AccessControl.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.CodePages.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itextsharp.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Dynamic.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.Metadata.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Mono.Unix.pdb
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Buffers.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.CodeDom.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Management.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Memory.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Numerics.Vectors.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.CodePages.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csprojAssemblyReference.cache
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csproj.CopyComplete
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.pdb
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.barcodes.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.bouncy-castle-connector.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.commons.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.forms.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.io.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.kernel.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.layout.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfa.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfua.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.sign.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.styledxmlparser.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.svg.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.barcodes.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.bouncy-castle-connector.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.commons.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.forms.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.io.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.kernel.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.layout.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfa.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfua.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.sign.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.styledxmlparser.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\itext.svg.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Options.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\Omi\PodnLearn\PodnLearn\PodnLearn\bin\System.ValueTuple.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.barcodes.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.bouncy-castle-connector.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.commons.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.forms.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.io.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.kernel.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.layout.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfa.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfua.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.sign.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.styledxmlparser.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.svg.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Options.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.barcodes.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.bouncy-castle-connector.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.commons.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.forms.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.io.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.kernel.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.layout.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfa.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfua.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.sign.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.styledxmlparser.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\itext.svg.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Options.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\autio\OneDrive\Desktop\PodnLearn Experiements\PodnLearn\PodnLearn\PodnLearn\bin\System.ValueTuple.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-arm\libMono.Unix.so
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-arm64\libMono.Unix.so
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-x64\libMono.Unix.so
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\android-x86\libMono.Unix.so
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\linux-x64\libMono.Unix.so
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\linux-arm64\libMono.Unix.so
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\linux-arm\libMono.Unix.so
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\osx-arm64\libMono.Unix.dylib
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\runtimes\osx-x64\libMono.Unix.dylib
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Mono.Unix.dll.config
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\PodnLearn.dll.config
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\PodnLearn.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\PodnLearn.pdb
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csc.rsp
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csi.exe
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\csi.rsp
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\netstandard.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.AppContext.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.Concurrent.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.NonGeneric.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Collections.Specialized.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Console.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Data.Common.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Contracts.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Debug.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Process.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Tools.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.TraceSource.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.Tracing.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Drawing.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Dynamic.Runtime.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Globalization.Calendars.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Globalization.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Globalization.Extensions.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.Compression.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.IsolatedStorage.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.Pipes.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.Expressions.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.Parallel.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Linq.Queryable.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Http.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.NameResolution.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.NetworkInformation.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Ping.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Requests.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Security.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.Sockets.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.WebHeaderCollection.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.WebSockets.Client.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Net.WebSockets.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.ObjectModel.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Reflection.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Reflection.Extensions.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Reflection.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Resources.Reader.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Resources.ResourceManager.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Resources.Writer.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Extensions.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Handles.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.InteropServices.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Numerics.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Json.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Claims.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Csp.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Principal.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.SecureString.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.Extensions.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.RegularExpressions.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Overlapped.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Thread.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.ThreadPool.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Timer.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XDocument.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XmlSerializer.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XPath.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.barcodes.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.bouncy-castle-connector.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.commons.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.forms.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.io.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.kernel.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.layout.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfa.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfua.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.sign.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.styledxmlparser.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.svg.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itextsharp.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Dynamic.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Win32.Registry.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Mono.Unix.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Buffers.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.CodeDom.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Management.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Memory.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Numerics.Vectors.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.AccessControl.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.ValueTuple.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.barcodes.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.bouncy-castle-connector.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.commons.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.forms.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.io.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.kernel.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.layout.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfa.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.pdfua.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.sign.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.styledxmlparser.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itext.svg.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\itextsharp.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Dynamic.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Options.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.Scripting.Metadata.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Mono.Unix.pdb
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Buffers.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.CodeDom.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Management.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Memory.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Numerics.Vectors.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Text.Encoding.CodePages.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\System.ValueTuple.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.csproj.CopyComplete
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.dll
+C:\Users\ASUS\Documents\project 2\PodnLearn final full\PodnLearn\PodnLearn\PodnLearn\obj\Debug\PodnLearn.pdb
